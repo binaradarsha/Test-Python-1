@@ -1,5 +1,4 @@
 class Calc:
-
 	def add(self, x, y):
 		self.x = x
 		self.y = y
