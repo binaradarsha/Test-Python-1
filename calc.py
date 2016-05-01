@@ -4,7 +4,7 @@ class Calc:
 		self.y = y
 		return x+y
 
-	def substract(self, x, y);
+	def substract(self, x, y):
 		self.x = x
 		self.y = y
 		return x-y
